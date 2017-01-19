@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Karta</string>
+    <string name="title_activity_maps">Karta</string>
+    <string name="Search">Sök</string>
+    <string name="No_Result">Inga resultat hittades</string>
+</resources>
